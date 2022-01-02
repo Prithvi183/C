@@ -1,0 +1,1 @@
+// Find the average of 10 numbers
